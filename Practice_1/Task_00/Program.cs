@@ -6,7 +6,7 @@ int doubleNum (int number)
     return resultOfDouble;
 }
 
-var resultOfTask0 = doubleNum (5);
+var resultOfTask0 = doubleNum (7);
 Console.WriteLine (resultOfTask0);
 
 
