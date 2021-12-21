@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/Task_06
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/Task_06.deps.json
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/Task_06.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/Task_06.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/ref/Task_06.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/bin/Debug/net6.0/Task_06.pdb
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/ref/Task_06.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.pdb
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_06/obj/Debug/net6.0/Task_06.genruntimeconfig.cache

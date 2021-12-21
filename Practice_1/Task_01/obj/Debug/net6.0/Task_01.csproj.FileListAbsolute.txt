@@ -1,0 +1,16 @@
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/Task_01
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/Task_01.deps.json
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/Task_01.runtimeconfig.json
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/Task_01.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/ref/Task_01.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/bin/Debug/net6.0/Task_01.pdb
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.GlobalUsings.g.cs
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.csproj.AssemblyReference.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.AssemblyInfoInputs.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.AssemblyInfo.cs
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.csproj.CoreCompileInputs.cache
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/ref/Task_01.dll
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.pdb
+/Users/yanazaulskaya/Desktop/ new_chance_c#/Practice_1/Task_01/obj/Debug/net6.0/Task_01.genruntimeconfig.cache
